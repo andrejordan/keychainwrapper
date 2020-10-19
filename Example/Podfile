@@ -1,0 +1,6 @@
+use_frameworks!
+target 'keychainwrapper_Tests' do
+  pod 'keychainwrapper', :path => '../'
+  
+  
+end
